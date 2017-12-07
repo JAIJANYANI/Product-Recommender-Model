@@ -47,6 +47,7 @@ python Recommender.py
 Output.json
 
 ```
+The Output.json file contains Visitorsids and its 10 recommended Itemids.
 
 
        
