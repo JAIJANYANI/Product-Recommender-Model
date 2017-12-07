@@ -3,7 +3,7 @@ Product Recommender Model based on the user Purchase_History + Product_Category 
 
 
 ## Description
-Used item-item collaborative filtering to recommend new Items to a Visitor. The rationale behind using item-item collaborative filtering is as follows
+Used item-item collaborative filtering to recommend new Items to a Visitor
 
 
 
